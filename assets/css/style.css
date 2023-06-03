@@ -1,3 +1,46 @@
-body{
-    background-color: blue;
+.text-succsess{
+    font-family: 'Roboto', sans-serif;
+    color:#28a745;
 }
+.card-footer{
+
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.card-text{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.card-title{
+
+    font-family: 'Roboto', sans-serif;
+}
+
+form{
+
+    font-family: 'Roboto', sans-serif;
+    
+    
+
+    
+}
+.info img{
+    width: 100%;
+    max-height: 350px;
+    
+}
+
+
+.navbar {
+
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:10;
+    height:80px;
+ }
+ 
+
